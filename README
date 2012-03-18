@@ -8,7 +8,7 @@ http://www.youtube.com/watch?v=qXFwNBHEmRE
 ・IA / 初音ミク・アペンド / 鏡音リン／レンアペンド
 ・Cakewalk Music Creator 6（及び付属のTTS-1シンセサイザー）
 ・Domino http://takabosoft.com/domino
-・Blender （http://www.blender.org/）
+・Blender http://www.blender.org/
 ・Adobe Photoshop CS5（ビデオのスレート画像用）
 
 構成ファイルの概要
@@ -21,3 +21,7 @@ http://www.youtube.com/watch?v=qXFwNBHEmRE
 ・noidea.psd - スレート用画像の元画像
 ・noidea.png - 上記のPNG画像
 ・noidea.blend - アップロード用ビデオのソースファイル
+
+ワークフロー
+Domino (MIDI生成） → Cakewalk Music Creator 6 （インストトラック生成）→ Vocaloid3 （歌作成・インストと歌を合成）
+Adobe Photoshop （スレート画像ファイル作成） → Blender（ビデオ・音声合成）
