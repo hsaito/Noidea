@@ -1,0 +1,23 @@
+ボカロに対する今の気持ちを１０秒で表現してみた　ソースファイル群
+
+Youtubeでも公開している「ボカロに対する今の気持ちを１０秒で表現してみた」のソースファイルです。
+http://www.youtube.com/watch?v=qXFwNBHEmRE
+
+使用した構成
+・Vocaloid3
+・IA / 初音ミク・アペンド / 鏡音リン／レンアペンド
+・Cakewalk Music Creator 6（及び付属のTTS-1シンセサイザー）
+・Domino http://takabosoft.com/domino
+・Blender （http://www.blender.org/）
+・Adobe Photoshop CS5（ビデオのスレート画像用）
+
+構成ファイルの概要
+・noidea.vsqf - 歌のVocaloid3ファイル
+・noidea.dms - 音楽ファイル
+・noidea.mid - noidea.dmsよりのMIDI出力
+・noidea.cwb - Cakewalk Music Creator 6のバンドル
+・noidea.wav - Cakewalk Music Creator 6よりの出力（インストオンリー）
+・noidea-master.wav - 歌・インスト合成済みファイル
+・noidea.psd - スレート用画像の元画像
+・noidea.png - 上記のPNG画像
+・noidea.blend - アップロード用ビデオのソースファイル
