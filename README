@@ -21,6 +21,7 @@ http://www.youtube.com/watch?v=qXFwNBHEmRE
 ・noidea.psd - スレート用画像の元画像
 ・noidea.png - 上記のPNG画像
 ・noidea.blend - アップロード用ビデオのソースファイル
+・viz - （おまけ）Blenderによるビジュアライゼーション。（結果ファイル、各音声ファイル、ソースファイル）
 
 ワークフロー
 Domino (MIDI生成） → Cakewalk Music Creator 6 （インストトラック生成）→ Vocaloid3 （歌作成・インストと歌を合成）
